@@ -7,11 +7,12 @@ political_decisions = {
 		}	
 		allow = {
 			war = no
-			NOT = { year = 1840 }
+			prestige = 100
+			great_power = yes
 		}
 		
 		effect = {
-			prestige = -2
+			prestige = 200
 			badboy = 5
 			ENG = { relation = { who = THIS value = -400 } }
 			ENG = { all_core = { add_core = GBR } }
@@ -20,6 +21,8 @@ political_decisions = {
 			government = absolute_monarchy
 			release = CAN
 			inherit = CAN
+			release = EIC
+			inherit = EIC
 			add_country_modifier = {
 				name = British_claimant 
 				duration = -1
@@ -121,6 +124,7 @@ political_decisions = {
 		picture = canada_decision
 		potential = {
 			tag = GBR
+			CAN = {exists = yes}
             CAN = {ai = yes}
 		}
 		allow = {
@@ -140,7 +144,7 @@ political_decisions = {
 					
 				}
 			}
-			revolution_n_counterrevolution = 1
+			state_n_government = 1
 		}
 		effect = {
 			CAN	= {
@@ -149,7 +153,7 @@ political_decisions = {
                     secede_province = THIS
 				}
 			}
-			prestige = 20
+			prestige = 100
 		}
 	}
 
