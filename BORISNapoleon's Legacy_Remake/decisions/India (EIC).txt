@@ -1,0 +1,29 @@
+political_decisions = {
+	annex_EIC = {
+		potential = {
+			tag = GBR
+			EIC = {
+			vassal_of = GBR
+			}
+			year = 1836
+			NOT = {year = 1837}
+		}
+	
+		allow = {
+			EIC = {ai = yes}
+		}
+		
+		effect = {
+			release_vassal = EIC
+                        war = {
+                                target = EIC
+                                attacker_goal = {
+                                        casus_belli = establish_protectorate_casus_belli
+                                }
+                        }
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+}

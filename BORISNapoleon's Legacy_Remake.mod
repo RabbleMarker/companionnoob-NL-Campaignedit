@@ -1,0 +1,12 @@
+name = "BORISNapoleon's Legacy_Remake"
+path = "mod/BORISNapoleon's Legacy_Remake"
+user_dir = "BORISNapoleon's Legacy_Remake"
+replace_path = "common"
+replace_path = "decisions"
+replace_path = "events"
+replace_path = "history"	#Doesn't work
+replace_path = "inventions"
+replace_path = "news"
+replace_path = "poptypes"
+replace_path = "technologies"
+replace_path = "units"

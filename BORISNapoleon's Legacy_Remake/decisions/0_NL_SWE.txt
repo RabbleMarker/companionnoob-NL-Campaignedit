@@ -1,0 +1,53 @@
+political_decisions = {
+	expand_german_influence = {
+		picture = mecklemburg_decision
+		potential = {
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
+			NOT = {has_country_flag=expand_german_influence}
+			MEC = {
+				OR = {
+					vassal_of = THIS
+					in_sphere = THIS
+				}
+			}
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			add_core = 545
+			add_core = 544
+			prestige = 5
+			MEC = {annex_to = THIS}
+			set_country_flag = expand_german_influence 
+		}
+	}
+	expand_german_territory = {
+		picture = pomerania_decision
+		potential = {
+			OR = {
+				tag = SWE
+				tag = SCA
+			}
+			
+			has_country_flag = expand_german_influence
+			NOT = {has_country_flag=expand_german_territory}
+		}
+		allow = {
+			MEC_545 = {owned_by = THIS}
+			owns = 548
+			war = no
+			PRU_546 = {owned_by = THIS}
+			PRU_679 = {owned_by = THIS}
+		}
+		effect = {
+			PRU_546 = {add_core = THIS}
+			PRU_679 = {add_core = THIS}
+			set_country_flag = expand_german_territory 
+			prestige = 5
+		}
+	}
+}
