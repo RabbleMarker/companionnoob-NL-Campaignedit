@@ -264,105 +264,286 @@ army = {
 
 
 navy = {
-	name = "3rd Reserve Squadron"
-	location = 1418 #Plymouth
+	name = "Commonwealth Fleet"
+	location = 2468
 	ship = {
-		name= "HMS Ajax"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Armada"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Caledonia"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Edinburgh"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Egmont"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Impregnable"
+		name= "1"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Invincible"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Minden"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Poictiers"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Warspite"
+		name= "1"
 		type = manowar
 	}
 
 	ship = {
-		name= "HMS Bacchante"
+		name= "1"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+
+	ship = { 
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Belvidera"
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Briton"
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Crescent"
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Galatea"
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Havannah"
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Maidstone"
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Menelaus"
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Nymphe"
+		name= "1"
 		type = frigate
 	}
 
 	ship = {
-		name= "HMS Tenedos"
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+
+	ship = { 
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
 		type = frigate
 	}
 
@@ -370,108 +551,103 @@ navy = {
 
 navy = {
 	name = "East Indies Station"
-	location = 1413 #Batavia
-	ship = {
-		name= "HMS Madagascar"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Portland"
-		type = frigate
-	}
-
-	ship = {
-		name= "HMS Winchester"
-		type = frigate
-	}
+	location = 2472 #Batavia
 	ship = {
 		name= "11th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "12th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 	ship = {
 		name= "13th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "14th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 	ship = {
 		name= "15th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "16th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 	ship = {
 		name= "17th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "18th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
+	}
+	ship = {
+		name= "19th Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "20th Transport Flotilla"
+		type = steam_transport
 	}
 
 }
 
 navy = {
 	name = "1st Transport Squadron"
-	location = 1423
+	location = 2087
 	ship = {
 		name= "1st Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "2nd Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "3rd Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "4th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "5th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 	ship = {
 		name= "6th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 	
 	ship = {
 		name= "23th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 	ship = {
 		name= "24th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 	ship = {
 		name= "25th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 	ship = {
 		name= "26th Transport Flotilla"
-		type = clipper_transport
+		type = steam_transport
 	}
 
 }

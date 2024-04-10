@@ -105,34 +105,40 @@
 }
 #Wellington (12000/3000 POPS)
 2512 = {
-	aristocrats = {
-		culture = maori
-		religion = animist
-		size = 25
+	bureaucrats = {
+		culture = british
+		religion = protestant
+		size = 500
 	}
 
 	clergymen = {
-		culture = maori
-		religion = animist
-		size = 75
+		culture = british
+		religion = protestant
+		size = 4000
 	}
 
 	artisans = {
-		culture = maori
-		religion = animist
-		size = 150
+		culture = british
+		religion = protestant
+		size = 4000
 	}
 
 	soldiers = {
-		culture = maori
-		religion = animist
-		size = 75
+		culture = british
+		religion = protestant
+		size = 4000
 	}
 
 	farmers = {
-		culture = maori
-		religion = animist
-		size = 2675
+		culture = british
+		religion = protestant
+		size = 75800
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 10000
 	}
 }
 #Tauranga (12000/3000 POPS)
