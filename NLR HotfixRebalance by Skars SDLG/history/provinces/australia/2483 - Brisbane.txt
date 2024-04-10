@@ -4,4 +4,20 @@ add_core = GBR
 add_core = AST
 trade_goods = cattle
 life_rating = 40
-naval_base = 1
+naval_base = 2
+
+
+
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}   
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}  
+
+
+    

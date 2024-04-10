@@ -5,73 +5,37 @@
 	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 35
+		size = 2000
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 65
+		size = 4000
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 3500
+		size = 4000
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 1100
+		size = 4000
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 4400
+		size = 75800
 	}
 
-	clergymen = {
+	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 500
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 2475
-	}
-
-	clergymen = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 150
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 2800
+		size = 10000
 	}
 }
 #Newcastle (16000/4000 POPS)
@@ -412,34 +376,40 @@
 #uncolonized in 1836
 #Melbourne (12000/3000 POPS)
 2476 = {
-	aristocrats = {
+	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 500
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 75
+		size = 4000
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 150
+		size = 4000
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 4000
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 2700
+		size = 75800
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 10000
 	}
 }
 #Warnambool (8000/2000 POPS)
@@ -642,58 +612,40 @@
 #ruled by Britain 1836
 #2483 - Brisbane (12000/3000 POPS)
 2483 = {
-	aristocrats = {
+	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 500
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 4000
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 100
+		size = 4000
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 25
+		size = 4000
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 1750
+		size = 75800
 	}
 
-	clergymen = {
+	craftsmen = {
 		culture = british
 		religion = protestant
-		size = 25
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 50
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 25
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 900
+		size = 10000
 	}
 }
 #uncolonized in 1836
@@ -1153,58 +1105,40 @@
 #ruled by Britain 1836
 #Perth (23000/5750 POPS)
 2497 = {
-	clergymen = {
+	bureaucrats = {
 		culture = british
 		religion = protestant
-		size = 15
-	}
-
-	artisans = {
-		culture = british
-		religion = protestant
-		size = 40
-	}
-
-	soldiers = {
-		culture = british
-		religion = protestant
-		size = 10
-	}
-
-	farmers = {
-		culture = british
-		religion = protestant
-		size = 685
-	}
-
-	aristocrats = {
-		culture = british
-		religion = protestant
-		size = 75
+		size = 500
 	}
 
 	clergymen = {
 		culture = british
 		religion = protestant
-		size = 125
+		size = 4000
 	}
 
 	artisans = {
 		culture = british
 		religion = protestant
-		size = 250
+		size = 4000
 	}
 
 	soldiers = {
 		culture = british
 		religion = protestant
-		size = 50
+		size = 4000
 	}
 
 	farmers = {
 		culture = british
 		religion = protestant
-		size = 4500
+		size = 75800
+	}
+
+	craftsmen = {
+		culture = british
+		religion = protestant
+		size = 10000
 	}
 }
 #Kojonup (12000/3000 POPS)
