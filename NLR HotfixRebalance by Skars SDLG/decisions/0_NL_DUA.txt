@@ -159,6 +159,7 @@ political_decisions = {
 		picture = bel_net_decision
 		potential = {
 			tag = DUA
+			NOT = {accepted_culture = wallonian}
 			has_country_flag = angevin_kingdom
 		}
 		allow = {
