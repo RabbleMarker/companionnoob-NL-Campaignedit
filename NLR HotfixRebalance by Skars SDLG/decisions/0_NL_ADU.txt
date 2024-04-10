@@ -109,6 +109,7 @@ political_decisions = {
 	picard_expansion = {
 		picture = picard_decision
 		potential = {
+		AND = {
 			OR = {
 				tag = ADU
 				tag = DUA
@@ -118,6 +119,7 @@ political_decisions = {
 				accepted_culture = wallonian
 			}
 			NOT = {accepted_culture = picard}
+			}
 		}
 		allow = {
 			war = no
@@ -137,12 +139,9 @@ political_decisions = {
 	reclaim_sa = {
 		picture = sa_decision
 		potential = {
-			OR = {
-				tag = ADU
-				tag = DUA
-			}
-			accepted_culture = irish
-			NOT = { has_country_flag = ADU_SA }
+			tag = ADU
+			accepted_culture = dutch
+			NOT = { has_country_flag = adu_sa }
 		}
 		allow = {
 			war = no
@@ -163,8 +162,67 @@ political_decisions = {
 				}
 			}
 			add_accepted_culture = boer
-			set_country_flag = ADU_SA
+			set_country_flag = adu_sa
 			prestige = 20
+		}
+	}
+	
+	claim_burgundy_and_rhineland =  { 
+		picture = burgundy_decision
+		potential = { 
+			tag = ADU
+			accepted_culture = wallonian
+			accepted_culture = picard
+		}
+		allow = { 
+			all_core = {
+				owned_by = THIS
+			}
+			PRU_575 = { owned_by = THIS } 
+			PRU_572 = { owned_by = THIS } 
+			FRA_412 = { owned_by = THIS } 
+			FRA_411 = { owned_by = THIS } 
+			FRA_428 = { owned_by = THIS } 
+			FRA_432 = { owned_by = THIS } 
+			revolution_n_counterrevolution = 1 
+		}
+		effect = {
+			PRU_575 = { add_core = THIS } 
+			PRU_572 = { add_core = THIS }
+			FRA_412 = { add_core = THIS }
+			FRA_411 = { add_core = THIS }
+			FRA_428 = { add_core = THIS }
+			FRA_432 = { add_core = THIS } 
+			prestige = 100
+			badboy = 10
+		}
+		
+	claim_hannover_and_rhenish_crown = {
+		picture = netherlands_decision
+		potential = {
+			OR = {
+				tag = ADU
+			}
+			accepted_culture = dutch
+		}
+		allow = {
+			all_core = {
+				owned_by = THIS
+			}
+			war = no
+			prestige = 300
+			revolution_n_counterrevolution = 1
+		}
+		effect = {
+			HAN_538	= {add_core = THIS}
+			HAN_536	= {add_core = THIS}
+			HAM_528	= {add_core = THIS}
+			PRU_581	= {add_core = THIS}
+			PRU_578	= {add_core = THIS}
+			HES_2560 = {add_core = THIS}
+			add_accepted_culture = rhenish
+			prestige = 100
+			badboy = 20
 		}
 	}
 }
