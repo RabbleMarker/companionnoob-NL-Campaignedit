@@ -118,7 +118,7 @@ political_decisions = {
 			tag = ENG
             #NOT = {accepted_culture = welsh}
 			NOT = {accepted_culture = irish}
-			NOT = {accepted_culture = anglo_canadian}
+			#NOT = {accepted_culture = anglo_canadian}
 			NOT = {accepted_culture = boer}
 			NOT = {accepted_culture = caribeno}
 		}

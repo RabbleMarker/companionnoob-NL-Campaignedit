@@ -5,7 +5,7 @@ political_decisions = {
 			has_country_flag = adu #see lct.txt event
 			ADU = { exists = no }
 			NOT = {accepted_culture = irish}
-			NOT = {accepted_culture = anglo_canadian}
+			#NOT = {accepted_culture = anglo_canadian}
 			NOT = {accepted_culture = boer}
 			NOT = {accepted_culture = caribeno}
 		}
