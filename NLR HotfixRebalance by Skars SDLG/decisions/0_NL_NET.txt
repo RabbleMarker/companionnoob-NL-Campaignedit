@@ -144,6 +144,7 @@ political_decisions = {
 			FRA_411 = { add_core = THIS }
 			FRA_428 = { add_core = THIS }
 			FRA_432 = { add_core = THIS } 
+			add_accepted_culture = wallonian
 			add_accepted_culture = french
 			add_accepted_culture = rhenish
 		}

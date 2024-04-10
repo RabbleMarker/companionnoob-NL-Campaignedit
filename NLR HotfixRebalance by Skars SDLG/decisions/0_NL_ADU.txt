@@ -4,7 +4,7 @@ political_decisions = {
 		potential = { 
 			has_country_flag = adu #see lct.txt event
 			ADU = { exists = no }
-			NOT = {accepted_culture = irish}
+			#NOT = {accepted_culture = irish}
 			#NOT = {accepted_culture = anglo_canadian}
 			NOT = {accepted_culture = boer}
 			NOT = {accepted_culture = caribeno}
@@ -53,7 +53,7 @@ political_decisions = {
 		potential = {
 			tag = ADU
 			NOT = {accepted_culture = flemish}
-			NOT = { accepted_culture = irish } 
+			#NOT = { accepted_culture = irish } 
 		}
 		allow = { 
 			war = no
@@ -77,7 +77,7 @@ political_decisions = {
 				tag = DUA
 			}
 			NOT = { accepted_culture = irish } 
-			NOT = { accepted_culture = flemish }
+			#NOT = { accepted_culture = flemish }
 		}
 		allow = { 
 			war = no
@@ -113,7 +113,10 @@ political_decisions = {
 				tag = ADU
 				tag = DUA
 			}
-			accepted_culture = wallonian
+			OR = {
+				has_country_flag = angevin_kingdom
+				accepted_culture = wallonian
+			}
 			NOT = {accepted_culture = picard}
 		}
 		allow = {
