@@ -204,7 +204,10 @@ political_decisions = {
 	reclaim_afrikaaner_land = {
 		picture = sa_decision
 		potential = {
-			tag = NET
+			OR = {
+				tag = NET
+				tag = BRG
+			}
 			NOT = { has_country_flag = net_sa }
 		}
 		allow = {
@@ -230,7 +233,10 @@ political_decisions = {
 	reclaim_batavian_colonies = {
 		picture = sa_decision
 		potential = {
-			tag = NET
+			OR = {
+				tag = NET
+				tag = BRG
+			}
 			NOT = { accepted_culture = malay }
 			NOT = { accepted_culture = javan }
 		}
