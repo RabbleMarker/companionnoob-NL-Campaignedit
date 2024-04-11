@@ -45,7 +45,7 @@ country_event = {
 	desc = "EVTDESC600034"
 	picture = "debate"
     option = {
-        name = "Establish the Capital in South Africa"
+        name = "Establish the Capital in South Africa large life to afrikaaner and english cowboys"
         any_pop = {
             limit = {
                 culture = boer
@@ -66,7 +66,7 @@ country_event = {
     	}
 	}
 	option = {
-        name = "Let the Capital in Sydney"
+        name = "Let the Capital in Sydney large life to australasia"
         any_pop = {
             limit = {
                 culture = british
@@ -84,12 +84,49 @@ country_event = {
 				add_core = THIS
 			}
 		}
+		CAN = {
+			all_core=  {
+				add_core = THIS
+			}
+		}
+		all_core = {
+			limit = {
+					NOT = { life_rating = 50 }
+				}
+				life_rating = 20
+		}
+        ai_chance = {
+			factor = 0.6
+    	}
+	}
+	option = {
+        name = "the grandplank... The Imperial Federation"
+        any_pop = {
+			militancy=-3
+			consciousness=-3
+		}
+		AST = {
+			all_core=  {
+				add_core = THIS
+			}
+		}
+		NZL = {
+			all_core=  {
+				add_core = THIS
+			}
+		}
+		CAN = {
+			all_core=  {
+				add_core = THIS
+			}
+		}
 		all_core = {
 			limit = {
 					NOT = { life_rating = 40 }
 				}
 				life_rating = 10
 		}
+		set_country_flag = capital_canada
         ai_chance = {
 			factor = 0.6
     	}
