@@ -269,7 +269,7 @@ UCA		="countries/United States of Central America.txt"
 
 # South America
 ARG		="countries/Argentina.txt"
-BOL		="countries/Bolivia.txt" ##KINDA USED, DELETABLE
+BOL		="countries/Bolivia.txt" ##DONT DELETE MY NATION PLS XDDD
 BRZ		="countries/Brazil.txt"
 CHL		="countries/Chile.txt"
 CLM		="countries/Colombia.txt"
