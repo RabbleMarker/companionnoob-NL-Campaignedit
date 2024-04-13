@@ -114,22 +114,16 @@
 #
 # Impassables - Himalayas
 #
-1326;1589;impassable;0;0;scary mountain
 1326;1592;impassable;0;0;scary mountain
-1328;1589;impassable;0;0;scary mountain
-1329;1589;impassable;0;0;scary mountain
 1329;1590;impassable;0;0;scary mountain
 1329;1590;impassable;0;0;scary mountain
-1329;1593;impassable;0;0;scary mountain
-1258;1593;impassable;0;0;scary mountain
-1260;1593;impassable;0;0;scary mountain
-1259;1593;impassable;0;0;scary mountain
 1238;1592;impassable;0;0;scary mountain
 1244;1592;impassable;0;0;scary mountain
 1235;1592;impassable;0;0;scary mountain
 1226;1592;impassable;0;0;scary mountain
 1327;1592;impassable;0;0;scary mountain
 1328;1592;impassable;0;0;scary mountain
+1593;1329;impassable;0;0;scary mountain
 
 #Impassable - Lichtenstein
 3252;614;impassable;0;0;Host Nation
@@ -140,10 +134,8 @@
 885;1099;impassable;0;0;scary mountain
 
 #Hengduan Mountains
-1339;1593;impassable;0;0;Haka-Tawang
 1341;1593;impassable;0;0;Putao-Tawang
 1341;1590;impassable;0;0;Putao-Lhodrak
-1341;1602;impassable;0;0;Putao-Dali
 
 #Pamirs (based stuff icen/munch added)
 1226;1594;impassable;0;0;Leh-Kashgar
