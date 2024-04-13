@@ -1,5 +1,5 @@
-owner = SIK
-controller = SIK
+owner = EIC
+controller = EIC
 add_core = SIK
 trade_goods = wool
 life_rating = 25
