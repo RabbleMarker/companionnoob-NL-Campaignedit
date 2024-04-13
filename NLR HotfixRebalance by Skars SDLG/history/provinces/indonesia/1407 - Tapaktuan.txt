@@ -1,5 +1,5 @@
-owner = ATJ
-controller = ATJ
+owner = TUR
+controller = TUR
 add_core = INO add_core = ATJ
 trade_goods = tea
 life_rating = 30

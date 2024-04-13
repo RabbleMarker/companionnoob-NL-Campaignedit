@@ -1,5 +1,5 @@
-owner = LAN
-controller = LAN
+owner = GBR
+controller = GBR
 add_core = INO add_core = LAN
 add_core = KLM
 trade_goods = grain

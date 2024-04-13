@@ -1,5 +1,5 @@
-owner = SLW
-controller = SLW
+owner = GBR
+controller = GBR
 add_core = INO add_core = SLW
 trade_goods = timber
 life_rating = 30
