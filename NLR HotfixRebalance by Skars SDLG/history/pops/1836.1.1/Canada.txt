@@ -426,32 +426,32 @@
 13 = {
 	aristocrats = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 50
+		religion = protestant
+		size = 5000
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 75
+		religion = protestant
+		size = 7500
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 150
+		religion = protestant
+		size = 15000
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 25
+		religion = protestant
+		size = 2500
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 2700
+		religion = protestant
+		size = 27000
 	}
 
 }
@@ -459,32 +459,32 @@
 14 = {
 	aristocrats = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 25
+		religion = protestant
+		size = 2500
 	}
 
 	clergymen = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 50
+		religion = protestant
+		size = 5000
 	}
 
 	artisans = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 100
+		religion = protestant
+		size = 10000
 	}
 
 	soldiers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 25
+		religion = protestant
+		size = 2500
 	}
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 1750
+		religion = protestant
+		size = 17500
 	}
 }
 #Prince Rupert (8000/2000 POPS)
@@ -516,7 +516,7 @@
 	farmers = {
 		culture = anglo_canadian
 		religion = catholic
-		size = 1750
+		size = 17500
 	}
 }
 #Glenora (4000/1000 POPS)
@@ -548,7 +548,7 @@
 	farmers = {
 		culture = anglo_canadian
 		religion = catholic
-		size = 900
+		size = 9000
 	}
 }
 #Atlin (4000/1000 POPS)
@@ -580,7 +580,7 @@
 	farmers = {
 		culture = anglo_canadian
 		religion = catholic
-		size = 900
+		size = 9000
 	}
 }
 #Fort St John (2400/600 POPS)
@@ -612,7 +612,7 @@
 	farmers = {
 		culture = anglo_canadian
 		religion = catholic
-		size = 520
+		size = 5200
 	}
 }
 #Prince George (8000/2000 POPS)
@@ -644,7 +644,7 @@
 	farmers = {
 		culture = anglo_canadian
 		religion = catholic
-		size = 1750
+		size = 17500
 	}
 }
 #Kelowna (8000/2000 POPS)
@@ -707,8 +707,8 @@
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 1750
+		religion = protestant
+		size = 17500
 	}
 
 }
@@ -1062,8 +1062,8 @@
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 910
+		religion = protestant
+		size = 9100
 	}
 
 	aristocrats = {
@@ -1092,8 +1092,8 @@
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 900
+		religion = protestant
+		size = 9000
 	}
 }
 #Medicine Hat (8000/2000 POPS)
@@ -1124,8 +1124,8 @@
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 1750
+		religion = protestant
+		size = 17500
 	}
 
 }
@@ -1191,8 +1191,8 @@
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 1750
+		religion = protestant
+		size = 17500
 	}
 
 	clergymen = {
@@ -1215,8 +1215,8 @@
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 910
+		religion = protestant
+		size = 9100
 	}
 }
 #Stanley (4000/1000 POPS)
@@ -1447,8 +1447,8 @@
 
 	farmers = {
 		culture = anglo_canadian
-		religion = catholic
-		size = 900
+		religion = protestant
+		size = 9000
 	}
 
 }

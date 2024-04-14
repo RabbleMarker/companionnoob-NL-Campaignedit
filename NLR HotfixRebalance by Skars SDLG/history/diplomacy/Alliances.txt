@@ -7,13 +7,6 @@ alliance=
 	}
 alliance=
 	{
-		first="GBR"
-		second="ICF"
-		end_date="1950.1.1"
-		start_date="1836.1.1"
-	}
-alliance=
-	{
 		first="LOM"
 		second="FRA"
 		end_date="1950.1.1"

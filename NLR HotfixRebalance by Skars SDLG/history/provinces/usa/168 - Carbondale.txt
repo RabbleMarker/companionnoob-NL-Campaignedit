@@ -1,5 +1,5 @@
-owner = ICF
-controller = ICF
+owner = GBR
+controller = GBR
 add_core = ICF
 add_core = USA
 trade_goods = coal

@@ -8,14 +8,14 @@ culture = picard
 culture = corsican
 religion = catholic
 government = absolute_monarchy
-plurality = 25
+plurality = 75
 nationalvalue = nv_equality
 literacy = 0.60
 non_state_culture_literacy = 0.265
 civilized = yes
 
 #GreaterPowers = prestige
-prestige = 90
+prestige = 190
 
 # Political reforms
 slavery = no_slavery

@@ -284,13 +284,11 @@ political_decisions = {
 			AND = {
 				tag = GBR
 				nationalism_n_imperialism = 1
-				badboy = 5
 				prestige = 100
 				}
 			AND = {
 				tag = IMP
 				mass_politics = 1
-				badboy = 10
 				prestige = 1000
 				}
 			}
@@ -301,11 +299,11 @@ political_decisions = {
 					add_core = THIS 
 				}
 			}
+			badboy = 10
 			add_accepted_culture = yankee
 			add_accepted_culture = dixie
 			add_accepted_culture = afro_american
 			add_accepted_culture = texan
-			add_accepted_culture = native_american_minor
 			add_accepted_culture = cherokee
 		}
 	}
