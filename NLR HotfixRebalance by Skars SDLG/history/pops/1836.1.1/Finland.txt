@@ -5,37 +5,49 @@
 	bureaucrats = {
 		culture = finnish
 		religion = protestant
-		size = 225
+		size = 2250
 	}
 
 	officers = {
 		culture = finnish
 		religion = protestant
-		size = 37
+		size = 370
 	}
 
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 225
+		size = 2250
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 1200
+		size = 12000
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 225
+		size = 4450
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 22087
+		size = 44087
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 13237
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1500
 	}
 }
 #Kajaani (16000/4000 POPS)
@@ -43,25 +55,37 @@
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 300
+		size = 3000
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 37
+		size = 3700
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 3725
+		size = 37250
+	}
+	
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 13237
+	}
+	
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1500
 	}
 }
 #Tornio (40000/10000 POPS)
@@ -69,23 +93,29 @@
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 707
+		size = 7070
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 150
+		size = 1500
 	}
 
 	farmers = {
 		culture = finnish
+		religion = protestant
+		size = 26237
+	}
+	
+	farmers = {
+		culture = swedish
 		religion = protestant
 		size = 13237
 	}
@@ -93,17 +123,17 @@
 	farmers = {
 		culture = sami
 		religion = protestant
-		size = 750
+		size = 7500
 	}
 }
 #Karelia Region (524000)
-#under the rule of Russia in 1836
-#Viipuri (192000/48000 POPS) #now part of Russia
+#under the rule of Swedish Empire Rule in middle of the northern War
+#Viipuri (192000/48000 POPS) #now part of Swedish Empire in decadency
 339 = {
 	bureaucrats = {
 		culture = finnish
 		religion = protestant
-		size = 75
+		size = 750
 	}
 
 	officers = {
@@ -115,19 +145,13 @@
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 600
+		size = 6000
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 3225
-	}
-
-	soldiers = {
-		culture = finnish
-		religion = protestant
-		size = 600
+		size = 13225
 	}
 
 	farmers = {
@@ -136,22 +160,46 @@
 		size = 64050
 	}
 
+	soldiers = {
+		culture = finnish
+		religion = protestant
+		size = 6000
+	}
+	
+	artisans = {
+		culture = swedish
+		religion = protestant
+		size = 3750
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = protestant
+		size = 1500
+	}
+
+	farmers = {
+		culture = swedish
+		religion = protestant
+		size = 16975
+	}
+
 	clergymen = {
 			culture = finnish
 		religion = orthodox
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = finnish
 		religion = orthodox
-		size = 375
+		size = 3750
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = orthodox
-		size = 75
+		size = 3500
 	}
 
 	farmers = {
@@ -163,7 +211,7 @@
 	aristocrats = {
 		culture = russian
 		religion = orthodox
-		size = 75
+		size = 1500
 	}
 
 	bureaucrats = {
@@ -175,25 +223,31 @@
 	officers = {
 		culture = russian
 		religion = orthodox
-		size = 75
+		size = 750
 	}
 
 	clergymen = {
 		culture = russian
 		religion = orthodox
-		size = 37
+		size = 370
 	}
 
 	artisans = {
 		culture = russian
 		religion = orthodox
-		size = 75
+		size = 750
 	}
 
 	soldiers = {
 		culture = russian
 		religion = orthodox
-		size = 150
+		size = 1500
+	}
+	
+	farmers = {
+		culture = finnish
+		religion = orthodox
+		size = 8975
 	}
 }
 #Kotka (64000/16000 POPS)
@@ -201,19 +255,19 @@
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 187
+		size = 1870
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 1125
+		size = 11250
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 225
+		size = 2250
 	}
 
 	farmers = {
@@ -225,25 +279,25 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 22
+		size = 2200
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 75
+		size = 750
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 15
+		size = 1500
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 1387
+		size = 13870
 	}
 }
 #Mikkeli (116000/29000 POPS)
@@ -251,7 +305,7 @@
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 412
+		size = 4120
 	}
 
 	artisans = {
@@ -263,7 +317,7 @@
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 412
+		size = 4120
 	}
 
 	farmers = {
@@ -277,19 +331,25 @@
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 525
+		size = 5250
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 2775
+		size = 14325
+	}
+	
+	artisans = {
+		culture = finnish
+		religion = protestant
+		size = 14325
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 525
+		size = 5250
 	}
 
 	farmers = {
@@ -301,25 +361,25 @@
 	clergymen = {
 		culture = finnish
 		religion = orthodox
-		size = 22
+		size = 220
 	}
 
 	artisans = {
 		culture = finnish
 		religion = orthodox
-		size = 75
+		size = 750
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = orthodox
-		size = 15
+		size = 1500
 	}
 
 	farmers = {
 		culture = finnish
 		religion = orthodox
-		size = 1387
+		size = 13870
 	}
 }
 #Finland Region (812000)
@@ -329,79 +389,79 @@
 	officers = {
 		culture = finnish
 		religion = protestant
-		size = 75
+		size = 750
 	}
 
 	bureaucrats = {
 		culture = finnish
 		religion = protestant
-		size = 150
+		size = 1500
 	}
 
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 225
+		size = 2250
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 3375
+		size = 10000
 	}
-
+	
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 1650
+		size = 3250
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 29100
+		size = 36100
 	}
 
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 525
+		size = 2525
 	}
 
 	bureaucrats = {
 		culture = swedish
 		religion = protestant
-		size = 337
+		size = 600
 	}
 
 	officers = {
 		culture = swedish
 		religion = protestant
-		size = 225
+		size = 500
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 150
+		size = 1500
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 2625
+		size = 10000
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 225
+		size = 2250
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 10987
+		size = 15987
 	}
 }
 #Hameenlinna (44000/11000 POPS)
@@ -409,55 +469,55 @@
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 75
+		size = 750
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 750
+		size = 7500
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 150
+		size = 1500
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 13725
+		size = 26725
 	}
 
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 112
+		size = 1120
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 37
+		size = 3700
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 112
+		size = 1120
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 37
+		size = 3700
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 1200
+		size = 12000
 	}
 }
 #Turku (280000/70000 POPS)
@@ -495,19 +555,19 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 150
+		size = 1500
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 825
+		size = 8250
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 187
+		size = 1870
 	}
 
 	farmers = {
@@ -551,7 +611,7 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 225
+		size = 2250
 	}
 
 	artisans = {
@@ -563,7 +623,7 @@
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 262
+		size = 2620
 	}
 
 	farmers = {
@@ -583,13 +643,13 @@
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 1650
+		size = 16500
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 300
+		size = 3000
 	}
 
 	farmers = {
@@ -601,31 +661,31 @@
 	aristocrats = {
 		culture = swedish
 		religion = protestant
-		size = 375
+		size = 3750
 	}
 
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 37
+		size = 3700
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 150
+		size = 15000
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 37
+		size = 3700
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 900
+		size = 9000
 	}
 }
 #Svealand Region (11000)
@@ -635,49 +695,49 @@
 	clergymen = {
 		culture = swedish
 		religion = protestant
-		size = 52
+		size = 520
 	}
 
 	artisans = {
 		culture = swedish
 		religion = protestant
-		size = 225
+		size = 2250
 	}
 
 	soldiers = {
 		culture = swedish
 		religion = protestant
-		size = 37
+		size = 3700
 	}
 
 	farmers = {
 		culture = swedish
 		religion = protestant
-		size = 3585
+		size = 22850
 	}
 
 	clergymen = {
 		culture = finnish
 		religion = protestant
-		size = 7
+		size = 700
 	}
 
 	artisans = {
 		culture = finnish
 		religion = protestant
-		size = 15
+		size = 1500
 	}
 
 	soldiers = {
 		culture = finnish
 		religion = protestant
-		size = 7
+		size = 3500
 	}
 
 	farmers = {
 		culture = finnish
 		religion = protestant
-		size = 195
+		size = 19500
 	}
 
 }
