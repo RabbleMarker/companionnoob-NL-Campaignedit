@@ -91,7 +91,7 @@ leader = {
 }
 
 army = {
-	name = "Svenska Armén"
+	name = "1. Swedish Army"
 	location = 352
 	regiment = {
 		name= "Svea Livgarde"
@@ -156,7 +156,7 @@ army = {
 }
 
 army = {
-	name = "Finland Armen"
+	name = "1. Finland Army"
 	location = 355
 	regiment = {
 		name= "2.Svea Livgarde"
@@ -219,7 +219,168 @@ army = {
 	}
 
 }
-
+army = {
+    name = "Malmo Army"
+    location = 334
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 322
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 324
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 323
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 318
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 319
+    }
+    regiment = {
+        name = "hussar"
+        type = hussar
+        home = 321
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 320
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 320
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 347
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 347
+    }
+}
+army = {
+    name = "2. Finland Army"
+    location = 339
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 339
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 339
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 339
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 339
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 339
+    }
+    regiment = {
+        name = "hussar"
+        type = hussar
+        home = 339
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 339
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 340
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 340
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 341
+    }
+}
+army = {
+    name = "2. Swedish Army"
+    location = 328
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 343
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 344
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 344
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 347
+    }
+    regiment = {
+        name = "artilley"
+        type = artillery
+        home = 347
+    }
+    regiment = {
+        name = "hussar"
+        type = hussar
+        home = 339
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 336
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 336
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 342
+    }
+    regiment = {
+        name = "infantry"
+        type = infantry
+        home = 342
+    }
+}
 army = {
 	name = "Baltics Army"
 	location = 357
