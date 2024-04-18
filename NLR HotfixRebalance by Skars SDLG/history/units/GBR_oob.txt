@@ -261,6 +261,171 @@ army = {
 	}
 }
 
+army = { 
+	name = "1st ICF Army"
+	location = 145
+	regiment = { 
+		name = "1st Native Infantry"
+		type = infantry
+		home = 118
+	}
+	regiment = { 
+		name = "2nd Native Infantry"
+		type = infantry
+		home = 118
+	}
+	regiment = { 
+		name = "3rd Native Infantry"
+		type = infantry
+		home = 118
+	}
+	regiment = { 
+		name = "4th Native Infantry"
+		type = infantry
+		home = 117
+	}
+	regiment = { 
+		name = "1st Native Hussars"
+		type = hussar
+		home = 117
+	}
+	regiment = { 
+		name = "1st Native Artillery"
+		type = artillery
+		home = 120
+	}
+	regiment = { 
+		name = "2nd Native Artillery"
+		type = artillery
+		home = 120
+	}
+	regiment = { 
+		name = "3rd Native Artillery"
+		type = artillery
+		home = 120
+	}
+	regiment = { 
+		name = "4th Native Artillery"
+		type = artillery
+		home = 154
+	}
+	regiment = { 
+		name = "5th Native Artillery"
+		type = artillery
+		home = 151
+	}
+}
+
+army = { 
+	name = "2st ICF Army"
+	location = 148
+	regiment = { 
+		name = "1st Native Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = { 
+		name = "2nd Native Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = { 
+		name = "3rd Native Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = { 
+		name = "4th Native Infantry"
+		type = infantry
+		home = 157
+	}
+	regiment = { 
+		name = "1st Native Hussars"
+		type = hussar
+		home = 156
+	}
+	regiment = { 
+		name = "1st Native Artillery"
+		type = artillery
+		home = 155
+	}
+	regiment = { 
+		name = "2nd Native Artillery"
+		type = artillery
+		home = 158
+	}
+	regiment = { 
+		name = "3rd Native Artillery"
+		type = artillery
+		home = 158
+	}
+	regiment = { 
+		name = "4th Native Artillery"
+		type = artillery
+		home = 160
+	}
+	regiment = { 
+		name = "5th Native Artillery"
+		type = artillery
+		home = 160
+	}
+}
+
+army = { 
+	name = "3st ICF Army"
+	location = 168
+	regiment = { 
+		name = "1st Native Infantry"
+		type = infantry
+		home = 160
+	}
+	regiment = { 
+		name = "2nd Native Infantry"
+		type = infantry
+		home = 160
+	}
+	regiment = { 
+		name = "3rd Native Infantry"
+		type = infantry
+		home = 153
+	}
+	regiment = { 
+		name = "4th Native Infantry"
+		type = infantry
+		home = 152
+	}
+	regiment = { 
+		name = "1st Native Hussars"
+		type = hussar
+		home = 177
+	}
+	regiment = { 
+		name = "1st Native Artillery"
+		type = artillery
+		home = 177
+	}
+	regiment = { 
+		name = "2nd Native Artillery"
+		type = artillery
+		home = 177
+	}
+	regiment = { 
+		name = "3rd Native Artillery"
+		type = artillery
+		home = 177
+	}
+	regiment = { 
+		name = "4th Native Artillery"
+		type = artillery
+		home = 177
+	}
+	regiment = { 
+		name = "5th Native Artillery"
+		type = artillery
+		home = 161
+	}
+}
+
 
 
 navy = {
