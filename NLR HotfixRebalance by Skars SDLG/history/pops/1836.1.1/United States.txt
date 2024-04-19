@@ -3016,61 +3016,31 @@
     clergymen = {
         culture = texan
         religion = protestant
-        size = 5
+        size = 5000
     }
 
     artisans = {
         culture = texan
         religion = protestant
-        size = 5
+        size = 10000
     }
 
     soldiers = {
-        culture = texan
-        religion = protestant
-        size = 5
-    }
-
-    farmers = {
         culture = texan
         religion = protestant
         size = 5000
     }
 
-    slaves = {
-        culture = afro_american
-        religion = protestant
-        size = 10000
-    }
-
-    aristocrats = {
-        culture = native_american_minor
-        religion = animist
-        size = 10
-    }
-
-    clergymen = {
-        culture = native_american_minor
-        religion = animist
-        size = 25
-    }
-
-    artisans = {
-        culture = native_american_minor
-        religion = animist
-        size = 50
-    }
-
-    soldiers = {
-        culture = native_american_minor
-        religion = animist
-        size = 15
-    }
-
     farmers = {
+        culture = texan
+        religion = protestant
+        size = 50000
+    }
+
+    slaves = {
         culture = native_american_minor
-        religion = animist
-        size = 900
+        religion = protestant
+        size = 20000
     }
 }
 #Lubbock (8000/2000 POPS)
@@ -3198,7 +3168,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 10000
+        size = 20000
     }
 
     farmers = {
@@ -3228,7 +3198,7 @@
     soldiers = {
         culture = dixie
         religion = catholic
-        size = 10000
+        size = 20000
     }
 
     farmers = {
@@ -3256,7 +3226,7 @@
     }
 
     slaves = {
-        culture = afro_american
+        culture = native_american_minor
         religion = animist
         size = 30000
     }
@@ -3348,7 +3318,7 @@
     }
 
     slaves = {
-        culture = afro_american
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
@@ -3386,7 +3356,7 @@
     }
 
     slaves = {
-        culture = afro_american
+        culture = native_american_minor
         religion = animist
         size = 10000
     }
@@ -8162,25 +8132,31 @@
     bureaucrats = {
         culture = dixie
         religion = protestant
-        size = 500
+        size = 1500
     }
 
     officers = {
         culture = dixie
         religion = protestant
-        size = 250
+        size = 1250
     }
 
     clergymen = {
         culture = dixie
         religion = protestant
-        size = 375
+        size = 3750
     }
 
     artisans = {
         culture = dixie
         religion = protestant
-        size = 2300
+        size = 10000
+    }
+
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 10000
     }
 
     soldiers = {
@@ -8189,34 +8165,40 @@
         size = 9100
     }
 
+    soldiers = {
+        culture = irish
+        religion = catholic
+        size = 1000
+    }
+
     farmers = {
         culture = dixie
         religion = protestant
-        size = 51475
+        size = 61475
     }
 
     clergymen = {
-        culture = afro_american
+        culture = yankee
         religion = protestant
-        size = 225
+        size = 2250
     }
 
     artisans = {
-        culture = afro_american
+        culture = yankee
         religion = protestant
-        size = 1400
+        size = 14000
     }
 
     farmers = {
-        culture = afro_american
+        culture = yankee
         religion = protestant
-        size = 1125
+        size = 11250
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 28000
+        size = 30000
     }
 }
 #Manassas (68000/17000 POPS)
@@ -8795,31 +8777,31 @@
     aristocrats = {
         culture = dixie
         religion = protestant
-        size = 475
+        size = 1475
     }
 
     bureaucrats = {
         culture = dixie
         religion = protestant
-        size = 400
+        size = 1400
     }
 
     clergymen = {
         culture = dixie
         religion = protestant
-        size = 500
+        size = 1500
     }
 
     artisans = {
         culture = dixie
         religion = protestant
-        size = 800
+        size = 8000
     }
 
     craftsmen = {
         culture = dixie
         religion = protestant
-        size = 1000
+        size = 10000
     }
 
     soldiers = {
@@ -8835,33 +8817,33 @@
     }
 
     clergymen = {
-        culture = afro_american
+        culture = yankee
         religion = protestant
-        size = 200
+        size = 2000
     }
 
     artisans = {
-        culture = afro_american
+        culture = yankee
         religion = protestant
-        size = 1200
+        size = 12000
     }
 
     craftsmen = {
-        culture = afro_american
+        culture = yankee
         religion = protestant
-        size = 100
+        size = 10000
     }
 
     farmers = {
-        culture = afro_american
+        culture = yankee
         religion = protestant
-        size = 1900
+        size = 369000
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 26000
+        size = 30000
     }
 }
 #Hagerstown (56000/14000 POPS)
