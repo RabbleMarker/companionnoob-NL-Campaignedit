@@ -5820,7 +5820,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 405
+        size = 5605
     }
 
     farmers = {
@@ -5845,48 +5845,6 @@
         culture = irish
         religion = catholic
         size = 5940
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 35
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 225
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 45
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 4195
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 5
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 35
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 660
     }
 }
 #Columbus (268000/67000 POPS)
@@ -5918,7 +5876,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 450
+        size = 5605
     }
 
     farmers = {
@@ -5962,78 +5920,6 @@
         religion = catholic
         size = 8482
     }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 63
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 28
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 38
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 250
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 50
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 4578
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 5
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 35
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 660
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 8
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 50
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 943
-    }
 }
 #Sandusky (188000/47000 POPS)
 180 = {
@@ -6052,7 +5938,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 337
+        size = 5605
     }
 
     farmers = {
@@ -6078,48 +5964,6 @@
         religion = protestant
         size = 8482
     }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 25
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 185
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 38
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 3453
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 8
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 50
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 943
-    }
 }
 #Dayton (224000/56000 POPS)
 181 = {
@@ -6138,7 +5982,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 450
+        size = 5605
     }
 
     farmers = {
@@ -6164,48 +6008,6 @@
         religion = protestant
         size = 5940
     }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 33
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 245
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 50
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 4573
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 5
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 35
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 660
-    }
 }
 #Cincinnati (296000/74000 POPS)
 182 = {
@@ -6224,7 +6026,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 472
+        size = 5605
     }
 
     farmers = {
@@ -6286,84 +6088,6 @@
         religion = protestant
         size = 2475
     }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 38
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 265
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 53
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 4945
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 5
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 40
-    }
-
-    soldiers= {
-        culture = north_german
-        religion = protestant
-        size = 755
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 8
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 50
-    }
-
-    soldiers= {
-        culture = irish
-        religion = catholic
-        size = 943
-    }
-
-    soldiers= {
-        culture = afro_american
-        religion = protestant
-        size = 5
-    }
-
-    soldiers= {
-        culture = afro_american
-        religion = protestant
-        size = 20
-    }
-
-    soldiers= {
-        culture = afro_american
-        religion = protestant
-        size = 275
-    }
 }
 #Marietta (160000/40000 POPS)
 183 = {
@@ -6382,7 +6106,7 @@
     soldiers = {
         culture = yankee
         religion = protestant
-        size = 360
+        size = 5605
     }
 
     farmers = {
@@ -6407,48 +6131,6 @@
         culture = afro_american
         religion = protestant
         size = 810
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 23
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 195
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 40
-    }
-
-    soldiers= {
-        culture = yankee
-        religion = protestant
-        size = 3643
-    }
-
-    soldiers= {
-        culture = afro_american
-        religion = protestant
-        size = 2
-    }
-
-    soldiers= {
-        culture = afro_american
-        religion = protestant
-        size = 9
-    }
-
-    soldiers= {
-        culture = afro_american
-        religion = protestant
-        size = 90
     }
 }
 #Kentucky Region (740000)
@@ -8540,7 +8222,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 3500
+        size = 9100
     }
 
     farmers = {
@@ -8596,7 +8278,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 150
+        size = 5600
     }
 
     farmers = {
@@ -8652,7 +8334,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 275
+        size = 5600
     }
 
     farmers = {
@@ -8708,7 +8390,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 75
+        size = 5600
     }
 
     farmers = {
@@ -8794,7 +8476,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 150
+        size = 5600
     }
 
     farmers = {

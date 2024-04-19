@@ -256,6 +256,195 @@ army = {
 		home = 234
 	}
 }
+army = {
+	name = "US 3rd Corps"
+	location = 184
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 178
+	}
+
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = infantry
+		home = 178
+	}
+
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = infantry
+		home = 179
+	}
+
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = infantry
+		home = 179
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = hussar
+		home = 180
+	}
+
+	regiment = {
+		name= "6th Artillery Regiment"
+		type = artillery
+		home = 180
+	}
+
+	regiment = {
+		name= "7th Artillery Regiment"
+		type = artillery
+		home = 181
+	}
+
+	regiment = {
+		name= "8th Artillery Regiment"
+		type = artillery
+		home = 181
+	}
+
+	regiment = {
+		name= "9th Artillery Regiment"
+		type = artillery
+		home = 182
+	}
+
+	regiment = {
+		name= "10th Artillery Regiment"
+		type = artillery
+		home = 182
+	}
+}
+army = {
+	name = "US 4th Corps"
+	location = 189
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 183
+	}
+
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = infantry
+		home = 183
+	}
+
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = infantry
+		home = 188
+	}
+
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = infantry
+		home = 223
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = hussar
+		home = 235
+	}
+
+	regiment = {
+		name= "6th Artillery Regiment"
+		type = artillery
+		home = 180
+	}
+
+	regiment = {
+		name= "7th Artillery Regiment"
+		type = artillery
+		home = 181
+	}
+
+	regiment = {
+		name= "8th Artillery Regiment"
+		type = artillery
+		home = 181
+	}
+
+	regiment = {
+		name= "9th Artillery Regiment"
+		type = artillery
+		home = 182
+	}
+
+	regiment = {
+		name= "10th Artillery Regiment"
+		type = artillery
+		home = 182
+	}
+}
+army = {
+	name = "US 5th Corps"
+	location = 211
+	regiment = {
+		name= "5th Infantry Regiment"
+		type = infantry
+		home = 211
+	}
+
+	regiment = {
+		name= "6th Infantry Regiment"
+		type = infantry
+		home = 211
+	}
+
+	regiment = {
+		name= "7th Infantry Regiment"
+		type = infantry
+		home = 212
+	}
+
+	regiment = {
+		name= "8th Infantry Regiment"
+		type = infantry
+		home = 212
+	}
+
+	regiment = {
+		name= "2nd Cavalry Regiment"
+		type = hussar
+		home = 213
+	}
+
+	regiment = {
+		name= "6th Artillery Regiment"
+		type = artillery
+		home = 213
+	}
+
+	regiment = {
+		name= "7th Artillery Regiment"
+		type = artillery
+		home = 214
+	}
+
+	regiment = {
+		name= "8th Artillery Regiment"
+		type = artillery
+		home = 214
+	}
+
+	regiment = {
+		name= "9th Artillery Regiment"
+		type = artillery
+		home = 215
+	}
+
+	regiment = {
+		name= "10th Artillery Regiment"
+		type = artillery
+		home = 215
+	}
+}
 
 navy = {
 	name = "1st Squadron"
