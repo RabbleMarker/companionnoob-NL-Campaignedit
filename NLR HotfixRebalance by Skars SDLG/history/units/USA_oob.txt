@@ -478,7 +478,7 @@ navy = {
 
 navy = {
 	name = "2nd Squadron"
-	location = 248
+	location = 231
 	ship = {
 		name= "Ohio"
 		type = manowar
@@ -534,7 +534,7 @@ navy = {
 
 navy = {
 	name = "1st Reserve Squadron"
-	location = 247
+	location = 213
 	ship = {
 		name= "Alabama"
 		type = manowar

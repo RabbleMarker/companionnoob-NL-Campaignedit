@@ -1,3 +1,7 @@
+owner = ARG
+controller = ARG
+add_core = ARG
+add_core = GBR
 trade_goods = fish
 life_rating = 35
 

@@ -1,5 +1,8 @@
-owner = FRA
-controller = FRA
+owner = GBR
+controller = GBR
+add_core = GBR
+add_core = CAN
+add_core = QUE
 add_core = FRA
 trade_goods = fish
 life_rating = 35

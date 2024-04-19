@@ -1,6 +1,6 @@
 owner = USA
 
-controller = USA
+controller = GBR
 
 add_core = USA
 trade_goods = grain

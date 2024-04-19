@@ -3174,91 +3174,73 @@
     aristocrats = {
         culture = dixie
         religion = protestant
-        size = 225
+        size = 2250
     }
 
     clergymen = {
         culture = dixie
         religion = protestant
-        size = 125
+        size = 2500
     }
 
     artisans = {
         culture = dixie
         religion = protestant
-        size = 650
+        size = 10000
+    }
+
+    artisans = {
+        culture = dixie
+        religion = protestant
+        size = 6500
     }
 
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 250
+        size = 15000
     }
 
     farmers = {
         culture = dixie
         religion = protestant
-        size = 15250
+        size = 30250
     }
 
     aristocrats = {
-        culture = dixie
+        culture = french
         religion = catholic
-        size = 100
+        size = 1000
     }
 
     clergymen = {
-        culture = dixie
+        culture = french
         religion = catholic
-        size = 75
+        size = 750
     }
 
     artisans = {
-        culture = dixie
+        culture = french
         religion = catholic
-        size = 200
+        size = 2000
     }
 
     soldiers = {
-        culture = dixie
+        culture = french
         religion = catholic
-        size = 75
+        size = 1500
     }
 
     farmers = {
-        culture = dixie
+        culture = french
         religion = catholic
-        size = 4550
-    }
-
-    artisans = {
-        culture = dixie
-        religion = jewish
-        size = 50
-    }
-
-    clergymen = {
-        culture = afro_american
-        religion = catholic
-        size = 25
-    }
-
-    artisans = {
-        culture = afro_american
-        religion = catholic
-        size = 650
-    }
-
-    farmers = {
-        culture = afro_american
-        religion = catholic
-        size = 3325
+        size = 9550
     }
 
     slaves = {
         culture = afro_american
         religion = protestant
-        size = 10000
+        size = 20000
     }
 }
 #Baton Rouge (72000/18000 POPS)
@@ -3338,7 +3320,7 @@
     soldiers = {
         culture = dixie
         religion = catholic
-        size = 100
+        size = 10000
     }
 
     farmers = {
@@ -3394,7 +3376,7 @@
     soldiers = {
         culture = dixie
         religion = protestant
-        size = 100
+        size = 10000
     }
 
     farmers = {
@@ -4050,13 +4032,13 @@
     soldiers = {
         culture = native_american_minor
         religion = animist
-        size = 2500
+        size = 5000
     }
 
     farmers = {
         culture = native_american_minor
         religion = animist
-        size = 18000
+        size = 24000
     }
 }
 #Minnesota Region (32000)

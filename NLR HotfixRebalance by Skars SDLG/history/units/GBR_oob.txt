@@ -426,10 +426,120 @@ army = {
 	}
 }
 
+army = { 
+	name = "2nd Native-Loyalist Canadian Army"
+	location = 232
+	regiment = { 
+		name = "1st Native Infantry"
+		type = infantry
+		home = 163
+	}
+	regiment = { 
+		name = "2nd Native Infantry"
+		type = infantry
+		home = 166
+	}
+	regiment = { 
+		name = "3rd Native Infantry"
+		type = infantry
+		home = 167
+	}
+	regiment = { 
+		name = "4th Native Infantry"
+		type = infantry
+		home = 168
+	}
+	regiment = { 
+		name = "British-Canadian Officers"
+		type = hussar
+		home = 73
+	}
+	regiment = { 
+		name = "1st British-Canadian Artillery"
+		type = artillery
+		home = 72
+	}
+	regiment = { 
+		name = "2nd British-Canadian Artillery"
+		type = artillery
+		home = 71
+	}
+	regiment = { 
+		name = "3rd British-Canadian Artillery"
+		type = artillery
+		home = 70
+	}
+	regiment = { 
+		name = "4th British-Canadian Artillery"
+		type = artillery
+		home = 69
+	}
+	regiment = { 
+		name = "5th British-Canadian Artillery"
+		type = artillery
+		home = 68
+	}
+}
+
+army = { 
+	name = "1st Native-Loyalist Canadian Army"
+	location = 220
+	regiment = { 
+		name = "1st Native Infantry"
+		type = infantry
+		home = 165
+	}
+	regiment = { 
+		name = "2nd Native Infantry"
+		type = infantry
+		home = 165
+	}
+	regiment = { 
+		name = "3rd Native Infantry"
+		type = infantry
+		home = 168
+	}
+	regiment = { 
+		name = "4th Native Infantry"
+		type = infantry
+		home = 173
+	}
+	regiment = { 
+		name = "Canadian Officers"
+		type = hussar
+		home = 46
+	}
+	regiment = { 
+		name = "1st British-Canadian Artillery"
+		type = artillery
+		home = 76
+	}
+	regiment = { 
+		name = "2nd British-Canadian Artillery"
+		type = artillery
+		home = 2625
+	}
+	regiment = { 
+		name = "3rd British-Canadian Artillery"
+		type = artillery
+		home = 75
+	}
+	regiment = { 
+		name = "4th British-Canadian Artillery"
+		type = artillery
+		home = 74
+	}
+	regiment = { 
+		name = "5th British-Canadian Artillery"
+		type = artillery
+		home = 76
+	}
+}
+
 
 
 navy = {
-	name = "Commonwealth Fleet"
+	name = "3rd Commonwealth Fleet"
 	location = 2468
 	ship = {
 		name= "1"
@@ -477,100 +587,8 @@ navy = {
 		name= "1"
 		type = manowar
 	}
-	ship = {
-		name= "1"
-		type = manowar
-	}
-
-	ship = {
-		name= "1"
-		type = manowar
-	}
-
-	ship = {
-		name= "1"
-		type = manowar
-	}
-
-	ship = {
-		name= "1"
-		type = manowar
-	}
-
-	ship = {
-		name= "1"
-		type = manowar
-	}
-
-	ship = {
-		name= "1"
-		type = manowar
-	}
-	
-	ship = {
-		name= "1"
-		type = manowar
-	}
-	ship = {
-		name= "1"
-		type = manowar
-	}
-	ship = {
-		name= "1"
-		type = manowar
-	}
-	ship = {
-		name= "1"
-		type = manowar
-	}
 
 
-	ship = { 
-		name= "1"
-		type = frigate
-	}
-
-	ship = {
-		name= "1"
-		type = frigate
-	}
-
-	ship = {
-		name= "1"
-		type = frigate
-	}
-
-	ship = {
-		name= "1"
-		type = frigate
-	}
-
-	ship = {
-		name= "1"
-		type = frigate
-	}
-
-	ship = {
-		name= "1"
-		type = frigate
-	}
-	
-	ship = {
-		name= "1"
-		type = frigate
-	}
-	ship = {
-		name= "1"
-		type = frigate
-	}
-	ship = {
-		name= "1"
-		type = frigate
-	}
-	ship = {
-		name= "1"
-		type = frigate
-	}
 	ship = {
 		name= "1"
 		type = frigate
@@ -712,6 +730,404 @@ navy = {
 		type = frigate
 	}
 
+}
+
+navy = {
+	name = "2nd Commonwealth Fleet"
+	location = 2096
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+}
+
+navy = {
+	name = "1st Commonwealth Fleet"
+	location = 243
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	ship = {
+		name= "1"
+		type = frigate
+	}
+	
+}
+
+navy = {
+	name = "Washington Escort"
+	location = 2954
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+}
+
+navy = {
+	name = "New York Escort"
+	location = 2953
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	ship = {
+		name= "1"
+		type = manowar
+	}
+	
 }
 
 navy = {
@@ -768,6 +1184,110 @@ navy = {
 navy = {
 	name = "1st Transport Squadron"
 	location = 2087
+	ship = {
+		name= "1st Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = steam_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = steam_transport
+	}
+	ship = {
+		name= "24th Transport Flotilla"
+		type = steam_transport
+	}
+	ship = {
+		name= "25th Transport Flotilla"
+		type = steam_transport
+	}
+	ship = {
+		name= "26th Transport Flotilla"
+		type = steam_transport
+	}
+
+}
+
+navy = {
+	name = "2nd Transport Squadron"
+	location = 220
+	ship = {
+		name= "1st Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "2nd Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "3rd Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "4th Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "5th Transport Flotilla"
+		type = steam_transport
+	}
+
+	ship = {
+		name= "6th Transport Flotilla"
+		type = steam_transport
+	}
+	
+	ship = {
+		name= "23th Transport Flotilla"
+		type = steam_transport
+	}
+	ship = {
+		name= "24th Transport Flotilla"
+		type = steam_transport
+	}
+	ship = {
+		name= "25th Transport Flotilla"
+		type = steam_transport
+	}
+	ship = {
+		name= "26th Transport Flotilla"
+		type = steam_transport
+	}
+
+}
+
+navy = {
+	name = "3rd Transport Squadron"
+	location = 233
 	ship = {
 		name= "1st Transport Flotilla"
 		type = steam_transport
