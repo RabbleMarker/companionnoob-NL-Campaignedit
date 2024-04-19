@@ -277,7 +277,7 @@ army = {
 	regiment = { 
 		name = "3rd Native Infantry"
 		type = infantry
-		home = 118
+		home = 157
 	}
 	regiment = { 
 		name = "4th Native Infantry"
@@ -302,7 +302,7 @@ army = {
 	regiment = { 
 		name = "3rd Native Artillery"
 		type = artillery
-		home = 120
+		home = 173
 	}
 	regiment = { 
 		name = "4th Native Artillery"
@@ -317,27 +317,27 @@ army = {
 }
 
 army = { 
-	name = "2st ICF Army"
+	name = "2nd ICF Army"
 	location = 148
 	regiment = { 
 		name = "1st Native Infantry"
 		type = infantry
-		home = 157
+		home = 176
 	}
 	regiment = { 
 		name = "2nd Native Infantry"
 		type = infantry
-		home = 157
+		home = 176
 	}
 	regiment = { 
 		name = "3rd Native Infantry"
 		type = infantry
-		home = 157
+		home = 174
 	}
 	regiment = { 
 		name = "4th Native Infantry"
 		type = infantry
-		home = 157
+		home = 175
 	}
 	regiment = { 
 		name = "1st Native Hussars"
@@ -357,7 +357,7 @@ army = {
 	regiment = { 
 		name = "3rd Native Artillery"
 		type = artillery
-		home = 158
+		home = 159
 	}
 	regiment = { 
 		name = "4th Native Artillery"
@@ -367,7 +367,7 @@ army = {
 	regiment = { 
 		name = "5th Native Artillery"
 		type = artillery
-		home = 160
+		home = 161
 	}
 }
 
@@ -377,12 +377,12 @@ army = {
 	regiment = { 
 		name = "1st Native Infantry"
 		type = infantry
-		home = 160
+		home = 161
 	}
 	regiment = { 
 		name = "2nd Native Infantry"
 		type = infantry
-		home = 160
+		home = 169
 	}
 	regiment = { 
 		name = "3rd Native Infantry"
@@ -407,22 +407,22 @@ army = {
 	regiment = { 
 		name = "2nd Native Artillery"
 		type = artillery
-		home = 177
+		home = 170
 	}
 	regiment = { 
 		name = "3rd Native Artillery"
 		type = artillery
-		home = 177
+		home = 171
 	}
 	regiment = { 
 		name = "4th Native Artillery"
 		type = artillery
-		home = 177
+		home = 172
 	}
 	regiment = { 
 		name = "5th Native Artillery"
 		type = artillery
-		home = 161
+		home = 162
 	}
 }
 
