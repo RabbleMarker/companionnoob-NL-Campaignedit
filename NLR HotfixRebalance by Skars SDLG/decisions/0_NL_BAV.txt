@@ -83,7 +83,7 @@ political_decisions = {
 		inherit = BAD
 		inherit = WUR
 		inherit = SWI
-		tag = SGF
+		change_tag = SGF
 		BAD = {
 			all_core = {
 				add_core = THIS
@@ -253,7 +253,7 @@ political_decisions = {
 		add_accepted_culture = lithuanian
 		remove_accepted_culture = south_german
 		add_accepted_culture = north_german
-		tag = PLC
+		change_tag = PLC
         }
     }
 }
