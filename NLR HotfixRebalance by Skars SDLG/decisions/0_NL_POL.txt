@@ -41,7 +41,7 @@ political_decisions = {
 			}
 		}
 		allow = {
-			state_and_government = 1
+			state_n_government = 1
 		}
 		effect = {
 		add_accepted_culture = north_german
@@ -66,12 +66,13 @@ political_decisions = {
 			SAX = {ai = yes}
 		}
 		allow = {
-			state_and_government = 1
+			state_n_government = 1
 		}
 		effect = {
 		set_country_flag = saxony_expansionism
 			prestige=5
 			inherit = SAX
+			badboy = 10
 			SAX = {
 			all_core = {
 					add_core = PRU
