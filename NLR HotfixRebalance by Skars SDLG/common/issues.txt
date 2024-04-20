@@ -213,6 +213,10 @@ political_reforms = {
 					}
 					year = 1875
 				}
+				OR = {
+					NOT = { has_country_flag = CSA_slave }
+					year = 1880
+				}
 			}
 
 			global_immigrant_attract = 0.05 #5% was 0.01
