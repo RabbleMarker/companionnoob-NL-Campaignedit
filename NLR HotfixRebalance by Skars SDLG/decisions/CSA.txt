@@ -59,7 +59,7 @@ political_decisions = {
 		}
 	}
 
-	imp_or_isol = {
+	imp_or_isol_csa = {
 		picture = decision_imp_or_isol
 		potential = {
 			tag = CSA
