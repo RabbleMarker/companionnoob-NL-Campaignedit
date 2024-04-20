@@ -98,14 +98,14 @@ political_decisions = {
 			nationalism_n_imperialism = 1
 		}
 		effect = {
-		tag = NAU
+			change_tag = NAU
 			CAN = {
-				all_ core {
+				all_core {
 					add_core = THIS
 				}
 			}
 			USA = {
-				all_ core {
+				all_core {
 					add_core = THIS
 				}
 			}
@@ -135,7 +135,7 @@ political_decisions = {
 		effect = {
 			prestige = 70
 			GCO = {
-				all_ core {
+				all_core {
 					add_core = THIS
 				}
 			}
