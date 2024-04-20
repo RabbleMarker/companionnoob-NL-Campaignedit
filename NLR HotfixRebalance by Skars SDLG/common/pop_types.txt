@@ -1034,6 +1034,14 @@ emigration_chance =
 assimilation_chance = {
 	factor = 1
 
+#csa
+    modifier = {
+        factor = 0.5
+        country = { 
+            has_country_flag = southern_hospitality
+        }
+    }
+
 
 #IMPORTANT DO NOT DELETE - blocks assimilation if the state is colonial and/or the country trying to assimilate pops is unciv and/or the pop is below 100% life needs.	
 	modifier = {

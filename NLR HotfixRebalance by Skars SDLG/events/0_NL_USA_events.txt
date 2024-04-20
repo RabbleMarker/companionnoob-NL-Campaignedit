@@ -44,3 +44,60 @@ country_event = {
     		}
 	}
 }
+country_event = {
+	id = 600099
+
+	title = "The Southern-Dixie Position"
+	desc = "EVTDESC600099" #game shat itself when this was too long without using a localisation file
+
+	trigger = {
+		tag = USA
+	}
+
+	fire_only_once = yes
+
+	option = {
+		name = "The great experiment of Democracy and Liberty Failed, we make our own way"
+		change_tag = CSA
+		any_pop = {
+			militancy = -1
+			consciousness = 3
+		}
+
+		USA_178 = { secede_province = GBR }
+		USA_223 = { secede_province = GBR } 
+		USA_232 = { secede_province = GBR }
+		USA_243 = { secede_province = GBR }
+		USA_247 = { secede_province = GBR }
+
+		USA_178 = { remove_core = CSA }
+		USA_223 = { remove_core = CSA }
+		USA_232 = { remove_core = CSA }
+		USA_243 = { remove_core = CSA }
+		USA_247 = { remove_core = CSA }
+
+		all_core = {
+			limit = {
+				is_core = ICF
+			}
+			remove_core = CSA 
+		}
+
+		capital = 211
+
+		end_war = GBR
+		end_war = CAN 
+		end_war = EIC
+		add_country_modifier = { name = southern_hospitality duration = -1 }
+		set_country_flag = southern_hospitality #unfortunately necessary in order for assim buff in pop_types.txt to work
+	}
+	option = {
+		name = "Give me Liberty or Give me Death"
+		prestige = 4
+		any_pop = {
+			militancy = 1
+			consciousness = 3
+		}
+	}
+}
+
