@@ -30,6 +30,56 @@ political_decisions = {
 		}
 	}
 
+	claim_saxony_kingdom = {
+		potential = {
+		has_country_flag = saxony_expansionism
+		NOT = { accepted_culture = north_german }
+			OR = {
+				tag = PLC
+				tag = POL
+				tag = ZAC
+			}
+		}
+		allow = {
+			state_and_government = 1
+		}
+		effect = {
+		add_accepted_culture = north_german
+			prestige=5
+			inherit = SAX
+			SAX = {
+			all_core = {
+					add_core = PRU
+				}
+			}
+		}
+	}
+
+	claim_saxony_kingdom = {
+		potential = {
+		SAX = exists
+			OR = {
+				tag = PLC
+				tag = POL
+				tag = ZAC
+			}
+			SAX = {ai = yes}
+		}
+		allow = {
+			state_and_government = 1
+		}
+		effect = {
+		set_country_flag = saxony_expansionism
+			prestige=5
+			inherit = SAX
+			SAX = {
+			all_core = {
+					add_core = PRU
+				}
+			}
+		}
+	}
+
 	reconquest_of_north_territory = {
 		picture = decision_prussia_POL
 		potential = {

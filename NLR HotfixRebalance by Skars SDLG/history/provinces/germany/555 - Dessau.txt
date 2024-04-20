@@ -1,5 +1,6 @@
-owner = ANH
-controller = ANH
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = ANH
 add_core = GER
 

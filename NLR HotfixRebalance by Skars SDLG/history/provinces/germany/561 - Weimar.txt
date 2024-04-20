@@ -1,5 +1,6 @@
-owner = WEI
-controller = WEI
+owner = SAX
+controller = SAX
+add_core = SAX
 add_core = WEI
 add_core = GER
 

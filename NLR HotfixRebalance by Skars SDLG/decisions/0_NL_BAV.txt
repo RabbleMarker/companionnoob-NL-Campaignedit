@@ -41,7 +41,11 @@ political_decisions = {
     accept_all_german = {
         picture = north_germany_decision
         potential = {
+			OR {
             tag = BAV
+			tag = SAX
+			tag = SGF
+			}
             NOT = {has_country_flag = bav_french}
 	        NOT = { accepted_culture = rhenish }
             OR = {
@@ -52,18 +56,150 @@ political_decisions = {
         allow = {
             war = no
             state_n_government = 1
-            GER = {
-				any_core = {
-					owned_by = THIS
-					culture = north_german
-				}
-			}
         }
         effect = {
 	set_country_flag = anmeinvolk 
             add_accepted_culture = north_german
             add_accepted_culture = rhenish
             prestige = 20
+        }
+    }
+	
+    south_german_federation = {
+        picture = south_germany_decision
+        potential = {
+            tag = BAV
+	        accepted_culture = rhenish
+            OR = {
+                NGF = {exists = no}
+                GER = {exists = no}
+            }
+        }
+        allow = {
+            war = no
+            state_n_government = 1
+        }
+        effect = {
+		inherit = BAD
+		inherit = WUR
+		inherit = SWI
+		tag = SGF
+		BAD = {
+			all_core = {
+				add_core = THIS
+				}
+			}
+		WUR = {
+			all_core = {
+				add_core = THIS
+				}
+			}
+		SWI = {
+			all_core = {
+				add_core = THIS
+				}
+			}
+        }
+    }
+	
+    proclaim_greater_kingdom_of_saxony = {
+        picture = north_germany_decision
+        potential = {
+		NOT = { has_country_flag = saxony_expansionism }
+			tag = SAX
+            OR = {
+                NGF = {exists = no}
+                GER = {exists = no}
+            }
+        }
+        allow = {
+            war = no
+            state_n_government = 1
+        }
+        effect = {
+		inherit = HES
+		inherit = WUL
+		inherit = FRM
+		set_country_flag = saxony_expansionism
+		HES = {
+			all_core = {
+				add_core = THIS
+				}
+			}
+		WUL = {
+			all_core = {
+				add_core = THIS
+				}
+			}
+		FRM = {
+			all_core = {
+				add_core = THIS
+				}
+			}
+        }
+    }
+	
+    saxony_expansion = {
+        potential = {
+			tag = SAX
+			NOT = { has_country_flag = saxony_expansion1 }
+        }
+        allow = {
+		OR = {
+			AND = {
+				owns = 625
+				owns = 631
+				owns = 683
+			}
+			AND = {
+            	war = no
+            	nationalism_and_imperialism = 1
+				prestige = 50
+				}
+			}
+        }
+        effect = {
+		PRU_682 = { add_core = THIS }
+		set_country_flag = saxony_expansion1
+		BOH = {
+			all_core = {
+				add_core = THIS
+				}
+			}
+        }
+    }
+	
+    saxony_kingdom_back_to_poland = {
+        potential = {
+			tag = SAX
+			AND = {
+				NOT = { 
+				exists = PLC
+				exists = POL
+				exists = ZAC
+				}
+			}
+        }
+        allow = {
+		OR = {
+			AND = {
+				owns = 706
+				owns = 360
+				owns = 703
+				owns = 699
+			}
+			AND = {
+            	war = no
+            	nationalism_and_imperialism = 1
+				prestige = 100
+				}
+			}
+        }
+        effect = {
+		set_primary_culture = polish
+		remove_accepted_culture = south_german
+		add_accepted_culture = north_german
+		tag = PLC
         }
     }
 }
