@@ -1036,7 +1036,7 @@ assimilation_chance = {
 
 #csa
     modifier = {
-        factor = 0.5
+        factor = 0.35
         country = { 
             has_country_flag = southern_hospitality
         }

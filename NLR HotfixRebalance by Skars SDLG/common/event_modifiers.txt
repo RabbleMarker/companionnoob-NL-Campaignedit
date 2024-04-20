@@ -1343,7 +1343,7 @@ hungarian_nationalism = {
 	assimilation_rate = -0.1
 }
 southern_hospitality = {
-    global_assimilation_rate = 2
+    global_assimilation_rate = 1.5
     global_immigrant_attract = 0.05
 }
 
