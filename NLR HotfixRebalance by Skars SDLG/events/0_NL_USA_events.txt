@@ -93,6 +93,7 @@ country_event = {
 		social_reform = good_schools
 		social_reform = good_health_care
 		set_country_flag = CSA_slave
+		set_global_flag = usa_can_into_csa
 	}
 	option = {
 		name = "Give me Liberty or Give me Death"
