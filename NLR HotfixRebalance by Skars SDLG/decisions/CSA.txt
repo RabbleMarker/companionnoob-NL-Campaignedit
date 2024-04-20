@@ -78,7 +78,7 @@ political_decisions = {
 			state_n_government = 1
 		}
 		effect = {
-			USA = {country_event = 600042}
+			CSA = {country_event = 600042}
 		}
 	}
 
