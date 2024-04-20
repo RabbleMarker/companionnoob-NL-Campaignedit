@@ -197,6 +197,7 @@ political_decisions = {
         }
         effect = {
 		set_primary_culture = polish
+		add_accepted_culture = lithuanian
 		remove_accepted_culture = south_german
 		add_accepted_culture = north_german
 		tag = PLC
