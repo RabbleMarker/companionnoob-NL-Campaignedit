@@ -212,6 +212,9 @@ political_decisions = {
 			MEX_2137 = {owned_by = THIS}
 		}
 		effect = {
+            all_core = {
+                add_core = NAU
+            }
 		
 			2151 = {
 				add_province_modifier = {
@@ -245,7 +248,7 @@ political_decisions = {
 					add_core = THIS
 					}
 				}
-		tag = NAU
+		change_tag = NAU
 			prestige = 70
 			add_accepted_culture = mexican
 			add_accepted_culture = central_american
