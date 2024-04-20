@@ -7,6 +7,7 @@ political_decisions = {
                 ITA = {exists = no}
                 NIT = {exists = no}
             }
+			NOT = { has_country_flag = italian_expansion }
         }
         allow = {
             war = no
@@ -35,6 +36,7 @@ political_decisions = {
             add_accepted_culture = north_italian
 	random_country = { limit = { tag = THIS accepted_culture = czech } set_country_flag = no_germany }
             prestige = 20
+			set_country_flag = italian_expansion
         }
     }
 
