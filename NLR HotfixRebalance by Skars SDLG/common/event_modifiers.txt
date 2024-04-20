@@ -1346,4 +1346,7 @@ southern_hospitality = {
     global_assimilation_rate = 1.5
     global_immigrant_attract = 0.05
 }
+the_new_colossus = {
+    global_immigrant_attract = 0.5
+}
 
