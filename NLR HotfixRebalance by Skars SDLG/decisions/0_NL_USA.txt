@@ -32,8 +32,7 @@ political_decisions = {
 			USA_124	= { add_core = USA }
 			USA_148	= { add_core = USA }
 			USA_151 = { add_core = USA }
-			USA_158	= { add_core = USA }	
-			ICF = { annex_to = THIS }
+			USA_158	= { add_core = USA }
 			set_country_flag = USAlouisiana	
 		}
 	}
@@ -43,32 +42,33 @@ political_decisions = {
 		potential = { 
 			tag = USA
 			NOT = { accepted_culture = anglo_canadian }
-			has_country_flag = USAlouisiana
-			has_country_flag = USA_imperialism
 			NOT = {2152 = {is_core = THIS}}
 		}
 		allow = { 
-			nationalism_n_imperialism = 1
-			CAN = {
-				all_core = {
-					OR = {
-						owned_by = THIS
-						owner = {
-							vassal_of = THIS
-						}
-						empty = yes
-					}
-				}
+		OR = {
+			AND = {
+				controls = 46
+				controls = 57
+				controls = 65
+				controls = 13
+				controls = 14
 			}
-			all_core = { 
-				OR = { 
-					owned_by = THIS 
-					empty = yes
+			AND = {
+				nationalism_n_imperialism = 1
+				CAN = {
+					all_core = {
+						OR = {
+							owned_by = THIS
+							empty = yes
+						}
+					}
 				}
 			}
 		}
 		effect = { 
-			CAN = { 
+		inherit = CAN
+		
+			CAN = {
 				all_core = { 
 					add_core = USA
 				} 
