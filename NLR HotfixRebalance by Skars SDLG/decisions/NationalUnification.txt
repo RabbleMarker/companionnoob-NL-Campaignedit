@@ -206,6 +206,9 @@ political_decisions = {
 				tag = ECU
 				tag = CLM
 				tag = VNZ
+				tag = USA
+				tag = CSA
+				tag = NAU
 			}
 		}
 		
