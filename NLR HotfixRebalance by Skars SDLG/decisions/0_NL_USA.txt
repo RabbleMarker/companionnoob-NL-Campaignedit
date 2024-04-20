@@ -53,30 +53,81 @@ political_decisions = {
 				controls = 13
 				controls = 14
 			}
-			AND = {
-				nationalism_n_imperialism = 1
-				CAN = {
-					all_core = {
-						OR = {
-							owned_by = THIS
-							empty = yes
-						}
-					}
-				}
-			}
+			nationalism_n_imperialism = 1
+		}
 		}
 		effect = { 
-		inherit = CAN
+			
+			#inherit = CAN
 		
 			CAN = {
 				all_core = { 
 					add_core = USA
+					#secede_province = USA
 				} 
-				annex_to = USA
 			}
 			add_accepted_culture = anglo_canadian
 			add_accepted_culture = french_canadian
+			prestige = 5
+		}
+	}
+	victory_in_canada = {
+		picture = crusade_for_canada
+		potential = {
+			tag = USA
+			accepted_culture = anglo_canadian
+			NOT = { has_country_flag = victory_in_canada } 
+		}
+		allow = {
+				controls = 46
+				controls = 57
+				controls = 65
+				controls = 13
+				controls = 14
+
+		}
+		effect = {
+			inherit = CAN
+			CAN = {
+				all_core = {
+					secede_province = USA
+				}
+			}
 			prestige = 30
+			set_country_flag = victory_in_canada
+		}
+	}
+
+	victory_in_indian_land = {
+		picture = crusade_for_canada
+		potential = {
+			OR = {
+				tag = USA
+				tag = GBR
+			}
+			NOT = { has_country_flag = louisianan_conquest }
+			NOT = { has_global_flag = victory_in_indian_land }
+			NOT = { year = 1845 }
+		}
+		allow = {
+			NOT = { year = 1845 } #redundancy to show the player that this is the case 
+			controls = 139
+			controls = 150
+			controls = 149
+			controls = 169
+			controls = 173
+			controls = 170
+			controls = 163
+		}
+		effect = {
+			ICF = {
+				all_core = {
+					secede_province = USA 
+					add_core = USA 
+				}
+			}
+			prestige = 15
+			set_global_flag = victory_in_indian_land
 		}
 	}
 
