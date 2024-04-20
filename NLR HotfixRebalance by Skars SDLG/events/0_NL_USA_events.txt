@@ -63,7 +63,21 @@ country_event = {
 			militancy = -1
 			consciousness = 3
 		}
-
+		
+		TEX_132 = { add_core = CSA }
+		inherit = TEX
+		set_primary_culture = dixie
+		remove_accepted_culture = dixie
+		USA_129 = { add_core = CSA }
+		USA_126 = { add_core = CSA }
+		USA_106 = { add_core = CSA }
+		MEX_94 = { add_core = CSA }
+		MEX_100 = { add_core = CSA }
+		MEX_103 = { add_core = CSA }
+		MEX_85 = { add_core = CSA }
+		MEX_2137 = { add_core = CSA }
+		MEX_2142 = { add_core = CSA }
+		
 		USA_178 = { secede_province = GBR }
 		USA_223 = { secede_province = GBR } 
 		USA_232 = { secede_province = GBR }
