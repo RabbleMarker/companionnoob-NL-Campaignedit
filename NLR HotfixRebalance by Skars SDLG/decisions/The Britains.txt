@@ -345,7 +345,7 @@ political_decisions = {
 					tag = NAU
 				} 
 			}
-			capital = { 
+			capital_scope = { 
 				OR = {
 					continent = north_america 
 					continent = south_america 

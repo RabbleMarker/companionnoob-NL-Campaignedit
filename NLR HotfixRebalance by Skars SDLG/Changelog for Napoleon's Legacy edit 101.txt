@@ -1,0 +1,3 @@
+Changelog for Napoleon's Legacy edit 1.0.1
+
+*Fixed two critically broken decisions
