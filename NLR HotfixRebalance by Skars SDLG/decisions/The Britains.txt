@@ -338,30 +338,30 @@ political_decisions = {
 	
 	the_new_liberty_land = {
 		potential = {
-		NOT = { has_country_modifier = nau_united }
-		NOT = { 
-			OR = {
-				tag = CSA
-				tag = NAU
-			} 
-		}
-		capital = { 
-		OR = {
-		continent = north_america 
-		continent = south_america 
+			NOT = { has_country_modifier = nau_united }
+			NOT = { 
+				OR = {
+					tag = CSA
+					tag = NAU
+				} 
+			}
+			capital = { 
+				OR = {
+					continent = north_america 
+					continent = south_america 
+				}
 			}
 		}
-	}
 		allow = {
-		NOT = { exists = USA }
-		nationalism_n_imperialism = 1
+			NOT = { exists = USA }
+			nationalism_n_imperialism = 1
+		}
 		effect = {
-		add_country_modifier = { 
-			name = nau_united 
-			duration = -1 
+			add_country_modifier = { 
+				name = nau_united 
+				duration = -1 
 			}
 		}
-	}
 	}
 	
 	integrate_the_republicains = {
