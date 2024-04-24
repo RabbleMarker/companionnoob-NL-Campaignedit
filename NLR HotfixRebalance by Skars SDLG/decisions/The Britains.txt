@@ -362,6 +362,7 @@ political_decisions = {
 			}
 		}
 	}
+	}
 	
 	integrate_the_republicains = {
 		potential = {
