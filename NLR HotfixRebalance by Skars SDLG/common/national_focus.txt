@@ -19,28 +19,28 @@ promotion_focus =
 {
 	promote_aristocrats =
 	{
-		aristocrats = 0.20 #20% more likeley to become artisans
+		aristocrats = 0.40 #40% more likeley to become artisans
 		icon = 5
 		outliner_show_as_percent = yes
 	}
 
 	promote_artisans =
 	{
-		artisans = 0.20 #20% more likeley to become this type
+		artisans = 0.40 #40% more likeley to become artisans
 		icon = 6
 		outliner_show_as_percent = yes
 	}
 
 	promote_bureaucrats =
 	{
-		bureaucrats = 0.20 #20% more likeley to become this type
+		bureaucrats = 0.80 #80% more likeley to become artisans
 		icon = 7
 		outliner_show_as_percent = yes
 	}
 
 	promote_capitalists =
 	{
-		capitalists = 0.20 #20% more likeley to become this type
+		capitalists = 0.40 #40% more likeley to become artisans
 		icon = 8
 		outliner_show_as_percent = yes
 		limit = { 
@@ -51,14 +51,14 @@ promotion_focus =
 	
 	promote_clergymen =
 	{
-		clergymen = 0.20 #20% more likeley to become this type
+		clergymen = 0.60 #40% more likeley to become artisans
 		icon = 9
 		outliner_show_as_percent = yes
 	}
 
 	promote_clerks =
 	{
-		clerks = 0.20 #20% more likeley to become this type
+		clerks = 0.40 #40% more likeley to become artisans
 		icon = 10
 		outliner_show_as_percent = yes
 		limit = { 
@@ -68,7 +68,7 @@ promotion_focus =
 
 	promote_craftsmen =
 	{
-		craftsmen = 0.20 #20% more likeley to become this type
+		craftssmen = 0.50 #50% more likeley to become artisans
 		icon = 11
 		outliner_show_as_percent = yes
 		limit = { 
@@ -78,28 +78,28 @@ promotion_focus =
 
 	promote_farmers =
 	{
-		farmers = 0.20 #20% more likeley to become this type
+		farmers = 0.40 #40% more likeley to become artisans
 		icon = 12
 		outliner_show_as_percent = yes
 	}
 	
 	promote_labourers =
 	{
-		labourers = 0.20 #20% more likeley to become this type
+		labourers = 0.40 #40% more likeley to become artisans
 		icon = 13
 		outliner_show_as_percent = yes
 	}
 
 	promote_officers =
 	{
-		officers = 0.20 #20% more likeley to become this type
+		officers = 0.40 #40% more likeley to become artisans
 		icon = 14
 		outliner_show_as_percent = yes
 	}
 
 	promote_soldiers =
 	{
-		soldiers = 0.20 #20% more likeley to become this type
+		soldiers = 0.60 #60% more likeley to become artisans
 		icon = 15
 		outliner_show_as_percent = yes
 	}
