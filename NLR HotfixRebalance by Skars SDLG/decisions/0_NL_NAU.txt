@@ -37,6 +37,7 @@ political_decisions = {
         picture = nau_decision
         potential = {
             tag = NAU
+            NOT = { has_country_flag = nau_united }
         }
         allow = {
             is_vassal = no
@@ -58,15 +59,16 @@ political_decisions = {
             war = no
         }
         effect = {
+            set_country_flag = nau_united
 		
 		add_country_modifier = { 
 			name = nau_united 
 			duration = -1 
 			}
-            all_core = {
-                add_core = NAU
-            }
-            change_tag = NAU
+            #all_core = {
+            #    add_core = NAU
+            #}
+            #change_tag = NAU
             prestige = 30
             add_accepted_culture = afro_american
         }
