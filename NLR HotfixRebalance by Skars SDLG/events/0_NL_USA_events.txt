@@ -66,7 +66,7 @@ country_event = {
 		
 		TEX_132 = { add_core = CSA }
 		inherit = TEX
-		set_primary_culture = dixie
+		primary_culture = dixie
 		remove_accepted_culture = dixie
 		USA_129 = { add_core = CSA }
 		USA_126 = { add_core = CSA }
