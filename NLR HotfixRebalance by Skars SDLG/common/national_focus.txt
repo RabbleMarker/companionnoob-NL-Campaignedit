@@ -40,7 +40,7 @@ promotion_focus =
 
 	promote_capitalists =
 	{
-		capitalists = 0.40 #40% more likeley to become artisans
+		capitalists = 0.50 #40% more likeley to become artisans
 		icon = 8
 		outliner_show_as_percent = yes
 		limit = { 
@@ -58,7 +58,7 @@ promotion_focus =
 
 	promote_clerks =
 	{
-		clerks = 0.40 #40% more likeley to become artisans
+		clerks = 0.50 #40% more likeley to become artisans
 		icon = 10
 		outliner_show_as_percent = yes
 		limit = { 
@@ -68,7 +68,7 @@ promotion_focus =
 
 	promote_craftsmen =
 	{
-		craftssmen = 0.50 #50% more likeley to become artisans
+		craftsmen = 0.60 #50% more likeley to become artisans
 		icon = 11
 		outliner_show_as_percent = yes
 		limit = { 
