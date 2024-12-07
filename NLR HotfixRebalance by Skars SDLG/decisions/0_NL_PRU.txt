@@ -71,6 +71,7 @@ political_decisions = {
 		picture = decision_volk_PRU
 		potential = {
 			has_country_flag = anmeinvolk
+			NOT = { has_country_flag = declaration_an_mein_volk }
 			NOT = {
 				OR = {
 					NGF = {exists = yes}
