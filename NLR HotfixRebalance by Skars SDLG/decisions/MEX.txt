@@ -78,15 +78,18 @@ political_decisions = {
 	enact_the_homestead_act_mexico = {
 		picture = enact_the_homestead_act
 		potential = {
-			tag = MEX
+			OR = {
+				tag = MEX
+				tag = GCO
+			}
 			NOT = {
 				has_country_modifier = the_homestead_act_mexico
 			}
-			year = 1862
 		}
 		
 		allow = {
 			year = 1862
+			prestige = 40
 		}
 		
 		effect = {

@@ -14,7 +14,6 @@ political_decisions = {
 					vassal_of = THIS
 				}
 			}
-			war_policy = jingoism
 		}
 		effect = {
 			PEU = {
@@ -57,7 +56,6 @@ political_decisions = {
 			}
 			invention = national_fraternity
 			rank = 10
-			war_policy = jingoism
 		}
 		effect = {
 			ARG = {

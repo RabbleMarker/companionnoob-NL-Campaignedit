@@ -500,7 +500,7 @@ political_decisions = {
 			OR = {
 				AND = {
 					war = no
-					is_greater_power = yes
+					rank = 16
 					GCO = {
 						all_core = {
 							owner = {
@@ -514,7 +514,7 @@ political_decisions = {
 					}
 				}
 				AND = {
-					prestige = 50
+					prestige = 40
 					war = no
 					owns = 2247 #Bogota
 					owns = 2264 #Caracas
