@@ -1,4 +1,5 @@
-color = { 125  171  84 }
+color = { 200  30  70 }
+absolute_monarchy = { 150 0 25}
 graphical_culture = ItalianGC
 
 party = {
