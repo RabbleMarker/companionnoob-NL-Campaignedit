@@ -1348,6 +1348,7 @@ southern_hospitality = {
 	global_population_growth = 0.003
 }
 the_new_colossus = {
-    global_immigrant_attract = 0.5
+    global_immigrant_attract = 0.4
+	global_population_growth = 0.001
 }
 

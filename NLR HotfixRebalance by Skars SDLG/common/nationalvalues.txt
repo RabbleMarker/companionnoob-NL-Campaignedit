@@ -40,7 +40,7 @@ nv_productivity = {
 }
 
 nv_education = {
-	education_efficiency_modifier = 0.2
+	education_efficiency_modifier = 0.3
 	research_points_modifier = 0.15
 }
 
