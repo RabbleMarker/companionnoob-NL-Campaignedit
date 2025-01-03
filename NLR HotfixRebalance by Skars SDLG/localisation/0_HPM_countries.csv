@@ -348,7 +348,10 @@ CSA;The Confederate States of America;;;;Spanish Loc;;;x
 CSA_bourgeois_dictatorship;The Confederate States of America;;;;Spanish Loc;;;x
 CSA_fascist_dictatorship;The Confederacy;;;;Spanish Loc;;;x
 CSA_proletarian_dictatorship;The People's Confederacy;;;;Spanish Loc;;;x
-ITA_democracy;The Italian Republic;;;;Spanish Loc;;;x
+ITA;The Roman Empire;;;;Spanish Loc;;;x
+ITA_ADJ;Roman;;;;Spanish Loc;;;x
+ITA_democracy;The Second Roman Republic;;;;Spanish Loc;;;x
+ITA_absolute_monarchy;Imperium Romanum;;;;Spanish Loc;;;x
 ITA_bourgeois_dictatorship_ADJ;Italian;;;;Spanish Loc;;;x
 ITA_proletarian_dictatorship;The People's Republic of Italy;;;;Spanish Loc;;;x
 ITA_proletarian_dictatorship_ADJ;Italian;;;;Spanish Loc;;;x
@@ -453,19 +456,21 @@ PAR_conservative_2;Popolari;;;;Spanish Loc;;;x
 PAR_anarcho_liberal;Radicali;;;;Spanish Loc;;;x
 PAR_communist;Comunisti;;;;Spanish Loc;;;x
 PAR_fascist;Fascisti;;;;Spanish Loc;;;x
-PER;Iran;;;;Spanish Loc;;;x
-PER_ADJ;Iranian;;;;Spanish Loc;;;x
-PER_absolute_monarchy;Persia;;;;Spanish Loc;;;x
-PER_absolute_monarchy_ADJ;Persian;;;;Spanish Loc;;;x
-PER_prussian_constitutionalism;The Imperial State of Iran;;;;Spanish Loc;;;x
-PER_hms_government;The Imperial State of Iran;;;;Spanish Loc;;;x
-PER_bourgeois_dictatorship;The Iranian Free State;;;;Spanish Loc;;;x
-PER_communist;Tudeh Party of Iran;;;;Spanish Loc;;;x
+PER;The Fifth Persian Empire;;;;Spanish Loc;;;x
+PER_ADJ;Persian;;;;Spanish Loc;;;x
+PER_absolute_monarchy;Neo Achaemenid Empire;;;;Spanish Loc;;;x
+PER_absolute_monarchy_ADJ;Achaemenid;;;;Spanish Loc;;;x
+PER_prussian_constitutionalism;Neo Achaemenid Empire;;;;Spanish Loc;;;x
+PER_hms_government;Neo Achaemenid Empire;;;;Spanish Loc;;;x
+PER_bourgeois_dictatorship;The State of Iran;;;;Spanish Loc;;;x
+PER_proletarian_dictatorship;The Union of Turkic-Iranian Socialist States;;;;Spanish Loc;;;x
+PER_fascist_dictatorship;Aryanam;;;;Spanish Loc;;;x
+PER_communist;Tudeh Party of Achaemna;;;;Spanish Loc;;;x
 PER_conservative;Shahist Faction;;;;Spanish Loc;;;x
 PER_reactionary;Ulama Faction;;;;Spanish Loc;;;x
 PER_anarcho_liberal;Bazaari Faction;;;;Spanish Loc;;;x
 PER_socialist;Hizb-e Socialyist;;;;Spanish Loc;;;x
-PER_fascist;SUMKA;;;;Spanish Loc;;;x
+PER_fascist;Xšāça;;;;Spanish Loc;;;x
 PER_liberal;Constitutionalist Party;;;;Spanish Loc;;;x
 PER_liberal_2;National Front;;;;Spanish Loc;;;x
 PAN_absolute_monarchy;The Sikh Empire;;;;Spanish Loc;;;x
