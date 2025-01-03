@@ -44,6 +44,7 @@ country_event = {
 			name = political_bonus_immigration
 			duration = 3650
 		}
+	ai_chance = 0
         FROM = {set_country_flag = political_bonus_immigration}
 	}
 	option = {
