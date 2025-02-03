@@ -1,4 +1,10 @@
 ;;;;Spanish Loc;;;x
+ROM;Roman Dacia;;;;Romanian Dacia;;;x
+ROM_ADJ;Dacian;;;;Spanish Loc;;;x
+ROM_democracy;Dacian Republic;;;;Spanish Loc;;;x
+ROM_monarchy;Roman Romania;;;;Spanish Loc;;;x
+ROM_fascist_dictatorship;True Rome;;;;Spanish Loc;;;x
+ROM_fascist_dictatorship_ADJ;Roman;;;;Spanish Loc;;;x
 ROM_reactionary;Partidul National Roman;;;;Partidul National Roman;;;x
 ROM_reactionary_2;Partidul Nationalist-Democrat;;;;Partidul Nationalist-Democrat;;;x
 ROM_reactionary_3;Partidul Poporului;;;;Partidul Poporului;;;x
