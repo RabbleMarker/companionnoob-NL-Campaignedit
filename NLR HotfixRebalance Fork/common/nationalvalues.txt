@@ -15,12 +15,6 @@ nv_equality = {
 	culture_tech_research_bonus = 0.05
 }
 
-#nv_autocracy = {
-	#ruling_party_support = 0.3
-	#mobilisation_size = 0.025
-	#leadership_modifier = 1
-}
-
 nv_tradition = {
 	research_points_modifier = -0.1
 	global_pop_militancy_modifier = -0.01
